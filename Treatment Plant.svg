@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64pt" height="64pt" viewBox="51.2488 10.1091 64 64" xml:space="preserve" enable-background="new 51.2488 10.1091 64 64">
+<g transform="scale(0.24,0.24)">
+<g id="Map_Frame">
+<g id="Point_Notes">
+<clipPath id="cp_2">
+<path d="M868.66376 557.9738 L868.66376 0 L0 0 L0 557.9738 Z " />
+</clipPath>
+<g clip-path="url(#cp_2)">
+<g transform="matrix(26.666667 0 0 -26.666667 346.87 175.45464)">
+<path d="M0 5 L0.87 4.92 L1.71 4.7 L2.5 4.33 L3.21 3.83 L3.83 3.21 L4.33 2.5 L4.7 1.71 L4.92 0.87 L5 0 L4.92 -0.87 L4.7 -1.71 L4.33 -2.5 L3.83 -3.21 L3.21 -3.83 L2.5 -4.33 L1.71 -4.7 L0.87 -4.92 L0 -5 L-0.87 -4.92 L-1.71 -4.7 L-2.5 -4.33 L-3.21 -3.83 L-3.83 -3.21 L-4.33 -2.5 L-4.7 -1.71 L-4.92 -0.87 L-5 0 L-4.92 0.87 L-4.7 1.71 L-4.33 2.5 L-3.83 3.21 L-3.21 3.83 L-2.5 4.33 L-1.71 4.7 L-0.87 4.92 L0 5 Z "  fill="none" fill-rule="evenodd" stroke="#A7A9AC" fill-opacity="1" stroke-opacity="1"  stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+</g>
+</g>
+<clipPath id="cp_3">
+<path d="M480.20333 308.78798 L480.20333 42.121309 L213.53667 42.121309 L213.53667 308.78798 Z " />
+</clipPath>
+<g clip-path="url(#cp_3)">
+<g transform="matrix(15.686275 0 0 -15.686275 213.53667 308.78798)">
+<path d="M8.46 5.01 L8.79 5.04 L9.12 5.11 L9.43 5.24 L9.71 5.42 L9.96 5.64 L10.17 5.9 L10.34 6.19 L10.46 6.5 L10.53 6.83 L10.55 7.16 L10.39 7.93 L10.13 8.67 L9.78 9.37 L9.78 9.37 L8.46 11.93 L7.13 9.34 L6.79 8.65 L6.53 7.92 L6.37 7.16 L6.51 6.34 L6.96 5.64 L7.65 5.17 L8.46 5.01 Z M14.91 6.54 L13.63 7.25 L13.8 8.5 L13.74 9.33 L13.54 10.14 L13.22 10.91 L12.79 11.62 L12.25 12.25 L11.62 12.79 L10.91 13.22 L10.14 13.54 L9.33 13.74 L8.5 13.8 L7.8 13.75 L7.1 13.59 L6.44 13.35 L5.82 13.01 L6.15 12.52 L7.28 13.02 L8.5 13.2 L9.32 13.13 L10.11 12.91 L10.85 12.57 L11.52 12.1 L12.1 11.52 L12.57 10.85 L12.91 10.11 L13.13 9.32 L13.2 8.5 L13.09 7.56 L12.22 8.05 L12.14 5 L14.91 6.54 Z M8.5 3.2 L9.21 3.25 L9.9 3.4 L10.57 3.64 L11.2 3.97 L10.86 4.46 L10.31 4.18 L9.72 3.97 L9.12 3.84 L8.5 3.8 L8.5 3.8 L7.58 3.89 L6.7 4.16 L5.89 4.59 L5.18 5.18 L4.59 5.89 L4.16 6.7 L3.89 7.58 L3.8 8.5 L3.92 9.44 L4.79 8.96 L4.86 12 L2.09 10.47 L3.38 9.74 L3.2 8.5 L3.26 7.67 L3.46 6.86 L3.78 6.09 L4.21 5.38 L4.75 4.75 L5.38 4.21 L6.09 3.78 L6.86 3.46 L7.67 3.26 L8.5 3.2 Z "  stroke="none" fill="#005CE6" fill-rule="evenodd" fill-opacity="1"/>
+</g>
+</g>
+</g>
+<!-- Begin_Label-->
+<clipPath id="cp_4">
+<path d="M868.66376 557.9738 L868.66376 0 L0 0 L0 557.9738 Z " />
+</clipPath>
+<g clip-path="url(#cp_4)">
+<g id="EmbdFile__1" transform="matrix(1 0 0 1 0 0)">
+<g>
+<g transform="scale(1,1)">
+</g>
+</g>
+</g>
+</g>
+<!-- End_Label-->
+</g>
+</g>
+</svg>
