@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+
+  <!-- Blue circle background -->
+  <circle cx="50" cy="50" r="48" fill="#1E97D4" stroke="#1a7aaa" stroke-width="1.5"/>
+
+  <!-- Radiating rays -->
+  <rect x="48" y="12" width="4" height="10" rx="2" fill="white" transform="rotate(0 50 42)"/>
+  <rect x="48" y="12" width="4" height="10" rx="2" fill="white" transform="rotate(40 50 42)"/>
+  <rect x="48" y="12" width="4" height="10" rx="2" fill="white" transform="rotate(80 50 42)"/>
+  <rect x="48" y="12" width="4" height="10" rx="2" fill="white" transform="rotate(280 50 42)"/>
+  <rect x="48" y="12" width="4" height="10" rx="2" fill="white" transform="rotate(320 50 42)"/>
+
+  <!-- Bulb round top -->
+  <circle cx="50" cy="44" r="15" fill="white"/>
+
+  <!-- Bulb straight sides section (connects circle to base) -->
+  <rect x="38" y="44" width="24" height="12" fill="white"/>
+
+  <!-- Base band 1 — top screw band -->
+  <rect x="40" y="56" width="20" height="5" rx="1" fill="white"/>
+
+  <!-- Blue separator line between bands -->
+  <rect x="40" y="60" width="20" height="1.5" fill="#1E97D4"/>
+
+  <!-- Base band 2 — bottom screw band -->
+  <rect x="40" y="61" width="20" height="5" rx="1" fill="white"/>
+
+  <!-- Bottom dome — small downward semicircle -->
+  <path d="M 43 66 Q 50 74 57 66 Z" fill="white"/>
+
+  <!-- Y-shaped filament (blue drawn over white bulb) -->
+  <line x1="50" y1="54" x2="50" y2="47" stroke="#1E97D4" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="47" x2="44" y2="40" stroke="#1E97D4" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="47" x2="56" y2="40" stroke="#1E97D4" stroke-width="2.5" stroke-linecap="round"/>
+
+</svg>
