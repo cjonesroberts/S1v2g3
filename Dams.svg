@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279pt" height="236pt" viewBox="0 0 279 236" xml:space="preserve" enable-background="new 0 0 279 236">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66pt" height="66pt" viewBox="0 0 66 66" xml:space="preserve" enable-background="new 0 0 66 66">
 <g transform="scale(0.24,0.24)">
 <g>
-	<rect x="0" y="0" width="1161.1965" height="982.36245" fill="none" fill-opacity="0" />
+	<rect x="0" y="0" width="275.94341" height="275.94341" fill="none" fill-opacity="0" />
 </g>
 <g id="Map_Frame">
 <g id="Point_Notes">
 <clipPath id="cp_2">
-<path d="M1161.1965 982.36245 L1161.1965 0 L0 2.2737368e-13 L0 982.36245 Z " />
+<path d="M275.94341 275.94341 L275.94341 0 L0 0 L0 275.94341 Z " />
 </clipPath>
 <g clip-path="url(#cp_2)">
-<g transform="matrix(4.1666667 0 0 -4.1666667 580.59825 491.18122)">
+<g transform="matrix(4.1666667 0 0 -4.1666667 139.97348 140.2783)">
 <path d="M0 32 C17.673112 32 32 17.673112 32 0 C32 -17.673112 17.673112 -32 0 -32 C-17.673112 -32 -32 -17.673112 -32 0 C-32 17.673112 -17.673112 32 0 32 Z "  stroke="none" fill="#007AC2" fill-rule="evenodd" fill-opacity="1"/>
 </g>
 </g>
 <clipPath id="cp_3">
-<path d="M697.26492 607.84789 L697.26492 374.51456 L463.93159 374.51456 L463.93159 607.84789 Z " />
+<path d="M256.64015 256.94497 L256.64015 23.611633 L23.306816 23.611633 L23.306816 256.94497 Z " />
 </clipPath>
 <g clip-path="url(#cp_3)">
-<g transform="matrix(11.111111 0 0 -11.111111 463.93159 607.84789)">
+<g transform="matrix(11.111111 0 0 -11.111111 23.306816 256.94497)">
 <path d="M4.11 13.04 L4.51 13.13 L4.9 13.26 L5.27 13.43 L5.62 13.64 L5.94 13.89 L6.24 14.18 L6.5 14.5 L6.76 14.18 L7.06 13.89 L7.38 13.64 L7.73 13.43 L8.1 13.26 L8.49 13.13 L8.89 13.04 L9.31 13 L10 13.04 L10 14.1 L10 14.1 L9.38 14.05 L8.98 14.1 L8.59 14.24 L8.22 14.45 L7.85 14.71 L7.15 15.35 L6.5 16 L5.85 15.35 L5.15 14.71 L4.78 14.45 L4.41 14.24 L4.02 14.1 L3.62 14.05 L3 14.1 L3 13.04 L3.69 13 L4.11 13.04 Z M4.11 9.04 L4.51 9.13 L4.9 9.26 L5.27 9.43 L5.62 9.64 L5.94 9.89 L6.24 10.18 L6.5 10.5 L6.76 10.18 L7.06 9.89 L7.38 9.64 L7.73 9.43 L8.1 9.26 L8.49 9.13 L8.89 9.04 L9.31 9 L10 9.04 L10 10.1 L9.38 10.05 L8.98 10.1 L8.59 10.24 L8.22 10.45 L7.85 10.71 L7.15 11.35 L6.5 12 L5.85 11.35 L5.15 10.71 L4.78 10.45 L4.41 10.24 L4.02 10.1 L3.62 10.05 L3 10.1 L3 9.04 L3.69 9 L4.11 9.04 Z M4.11 5.04 L4.51 5.13 L4.9 5.26 L5.27 5.43 L5.62 5.64 L5.94 5.89 L6.24 6.18 L6.5 6.5 L6.76 6.18 L7.06 5.89 L7.38 5.64 L7.73 5.43 L8.1 5.26 L8.49 5.13 L8.89 5.04 L9.31 5 L10 5.04 L10 6.1 L10 6.1 L9.38 6.05 L8.98 6.1 L8.59 6.24 L8.22 6.45 L7.85 6.71 L7.15 7.35 L6.5 8 L5.85 7.35 L5.15 6.71 L4.78 6.45 L4.41 6.24 L4.02 6.1 L3.62 6.05 L3 6.1 L3 5.04 L3.69 5 L4.11 5.04 Z M17 4 L14 18 L11 18 L11 4 L17 4 Z "  stroke="none" fill="#FFFFFF" fill-rule="evenodd" fill-opacity="1"/>
 </g>
 </g>
 </g>
 <!-- Begin_Label-->
 <clipPath id="cp_4">
-<path d="M1161.1965 982.36245 L1161.1965 0 L0 2.2737368e-13 L0 982.36245 Z " />
+<path d="M275.94341 275.94341 L275.94341 0 L0 0 L0 275.94341 Z " />
 </clipPath>
 <g clip-path="url(#cp_4)">
-<g id="EmbdFile__1" transform="matrix(1 0 0 1 -1.1368684e-13 2.2737368e-13)">
+<g id="EmbdFile__1" transform="matrix(1 0 0 1 0 0)">
 <g>
 <g transform="scale(1,1)">
 </g>
